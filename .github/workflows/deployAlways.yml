@@ -20,7 +20,7 @@ jobs:
           server: ftp-elindall.alwaysdata.net # Change if using another host
           username: elindall
           password: Jhosep2020
-          server-dir: www/test1/ # Replace with your correct path
+          server-dir: www/# Replace with your correct path
           protocol: ftps
           timeout: 86400000
           log-level: standard
